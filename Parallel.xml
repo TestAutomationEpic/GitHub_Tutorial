@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" name="Suite" parallel="classes">
+
+    <test name="TestNG">
+        <classes>
+			 <class name="Local_Project.Automation_Epic_Part_3.Test_Case_1"></class> 
+			 <class name="Local_Project.Automation_Epic_Part_3.Test_Case_2"></class> 
+			 <class name="Local_Project.Automation_Epic_Part_3.Test_Case_3"></class> 
+        </classes>
+    </test>
+</suite>

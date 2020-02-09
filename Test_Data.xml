@@ -1,0 +1,9 @@
+<Test_Data>
+
+<Chrome_Driver_Directory>D:\\chromedriver_win32\\chromedriver.exe</Chrome_Driver_Directory>
+<Chrome_Driver_Directory>D:\\chromedriver_win32\\chromedriver.exe</Chrome_Driver_Directory>
+<Web_Site>https://www.google.com/</Web_Site>
+<Web_Site>https://www.facebook.com/</Web_Site>
+<Web_Site>https://www.wikipedia.org/</Web_Site>
+
+</Test_Data>

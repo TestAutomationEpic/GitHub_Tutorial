@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="27015" started-at="2020-02-07T13:43:17Z" finished-at="2020-02-07T13:43:44Z">
+    <groups>
+    </groups>
+    <test name="TestNG" duration-ms="27015" started-at="2020-02-07T13:43:17Z" finished-at="2020-02-07T13:43:44Z">
+      <class name="Local_Project.Automation_Epic_Part_3.Test_Case_3">
+        <test-method status="PASS" signature="test_1()[pri:0, instance:Local_Project.Automation_Epic_Part_3.Test_Case_3@4cc0edeb]" name="test_1" duration-ms="18654" started-at="2020-02-07T13:43:17Z" finished-at="2020-02-07T13:43:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_1 -->
+      </class> <!-- Local_Project.Automation_Epic_Part_3.Test_Case_3 -->
+      <class name="Local_Project.Automation_Epic_Part_3.Test_Case_2">
+        <test-method status="PASS" signature="test_1()[pri:0, instance:Local_Project.Automation_Epic_Part_3.Test_Case_2@7823a2f9]" name="test_1" duration-ms="26988" started-at="2020-02-07T13:43:17Z" finished-at="2020-02-07T13:43:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_1 -->
+      </class> <!-- Local_Project.Automation_Epic_Part_3.Test_Case_2 -->
+      <class name="Local_Project.Automation_Epic_Part_3.Test_Case_1">
+        <test-method status="PASS" signature="test_1()[pri:0, instance:Local_Project.Automation_Epic_Part_3.Test_Case_1@1b604f19]" name="test_1" duration-ms="21904" started-at="2020-02-07T13:43:17Z" finished-at="2020-02-07T13:43:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_1 -->
+      </class> <!-- Local_Project.Automation_Epic_Part_3.Test_Case_1 -->
+    </test> <!-- TestNG -->
+  </suite> <!-- Suite -->
+</testng-results>
