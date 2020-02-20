@@ -14,7 +14,7 @@ import org.w3c.dom.Element;
 import org.xml.sax.SAXException;
 
 public class Test_Case_1 {
-	//Test
+	
 	WebDriver driver;
 	String chrome_driver_directory;
 	String web_site;
